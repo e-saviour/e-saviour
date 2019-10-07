@@ -1,2 +1,1 @@
-# e-saviour
-A social networking / media platform to channelize the public awareness  about saving and planting trees into actual action in that direction.
+e-Saviour - Stands for earth-Saviour. It is a social networking / media platform to channelize the public awareness about saving and planting trees  into actual action in that direction. The scope of this project initially focuses on the e-management of planting and nurturing planted trees upto the point that they become self sufficient. The scope of this project is kept open to include other management of other climate saving initiatives also. The management expected through this project is voluntary management of people by people. 
