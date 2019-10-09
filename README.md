@@ -1,1 +1,6 @@
 e-Saviour - Stands for earth-Saviour. It is a social networking / media platform to channelize the public awareness about saving and planting trees  into actual action in that direction. The scope of this project initially focuses on the e-management of planting and nurturing planted trees upto the point that they become self sufficient. The scope of this project is kept open to include other management of other climate saving initiatives also. The management expected through this project is voluntary management of people by people. 
+A group of persons will take responsibility of planting and nurturing one plant each. This group could be a society, village or group connected togahter with some common factor. 
+Each person of the group will take the responsibility of planting and nurturing the plant, while other groups will monitor the member's daily activity. 
+The longitude lattitude of the plant will act as a unique id for the plant/tree. 
+In case of non availibility the person can transfer the responsibility to the other member of the group, in advance.
+If the member of the group fails to give water or whatever activity he is supposed to do on a day, he will have to pay the penaulty, which will be decided by himself while taking the responsibility, and will be approved by the group members. 
